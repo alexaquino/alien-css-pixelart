@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Space Invaders { Alien }
 
-![_Captura_de_Tela_2018-07-24_às_22.38.56](/uploads/3ff3bca8c4a78cd1a52294a85f324d6d/_Captura_de_Tela_2018-07-24_às_22.38.56.png)
+![_Captura_de_Tela_2018-07-24_às_22 38 56](https://user-images.githubusercontent.com/12216463/59978443-88011380-95b2-11e9-8cfc-fba5e9d168b5.png)
 
 ### Directory Structure
 
